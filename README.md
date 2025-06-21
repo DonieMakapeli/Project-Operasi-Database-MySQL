@@ -1,30 +1,30 @@
-# 📚 Aplikasi Manajemen Buku Perpustakaan
+# Aplikasi Manajemen Buku Perpustakaan
 
 Selamat datang di **Aplikasi Manajemen Buku Perpustakaan** berbasis Java dan MySQL!
 Aplikasi ini dirancang untuk membantu pengguna dalam melakukan operasi CRUD (*Create, Read, Update, Delete*) terhadap data buku dalam sistem perpustakaan secara mudah dan efisien melalui antarmuka terminal.
 
 ---
 
-## 📅 Fitur Utama
+## Fitur Utama
 
-* ✏️ **Menambahkan Buku Baru**
+*  **Menambahkan Buku Baru**
   Input judul, pengarang, tahun terbit, dan jumlah buku.
 
-* 🔍 **Mencari Buku Berdasarkan ID**
+*  **Mencari Buku Berdasarkan ID**
   Temukan buku dan tampilkan informasi lengkapnya secara langsung.
 
-* 🔢 **Melihat Semua Data Buku**
+*  **Melihat Semua Data Buku**
   Tampilkan seluruh daftar buku yang tersimpan dalam database.
 
-* ✏️ **Mengedit Informasi Buku**
+*  **Mengedit Informasi Buku**
   Ubah detail buku tertentu berdasarkan ID.
 
-* ❌ **Menghapus Buku**
+* **Menghapus Buku**
   Hapus data buku dari sistem secara permanen.
 
 ---
 
-## ⚙️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 * **Java SE** untuk pengembangan aplikasi
 * **MySQL** sebagai database manajemen data
@@ -32,7 +32,7 @@ Aplikasi ini dirancang untuk membantu pengguna dalam melakukan operasi CRUD (*Cr
 
 ---
 
-## ⚡ Struktur Kode
+## Struktur Kode
 
 * `Buku.java`
   Berisi logika utama untuk koneksi database dan fungsi-fungsi CRUD.
@@ -42,7 +42,7 @@ Aplikasi ini dirancang untuk membantu pengguna dalam melakukan operasi CRUD (*Cr
 
 ---
 
-## 🔗 Koneksi Database
+## Koneksi Database
 
 Pastikan kamu memiliki database dengan nama `perpustakaan` dan tabel `buku` dengan struktur sebagai berikut:
 
@@ -58,7 +58,7 @@ CREATE TABLE buku (
 
 ---
 
-## ⚡ Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 1. Jalankan server MySQL (XAMPP/WAMP/Docker/Native)
 2. Pastikan koneksi diatur dengan benar di `Buku.java`
@@ -71,7 +71,7 @@ java PerpustakaanApp
 
 ---
 
-## 🌟 Kenapa Harus Pakai Aplikasi Ini?
+## Kenapa Harus Pakai Aplikasi Ini?
 
 * Praktis digunakan di lingkungan kampus, sekolah, atau proyek pribadi
 * Langsung jalan tanpa library tambahan
@@ -79,7 +79,7 @@ java PerpustakaanApp
 
 ---
 
-## ✨ Rencana Pengembangan Selanjutnya
+## Rencana Pengembangan Selanjutnya
 
 * Integrasi dengan GUI (JavaFX atau Swing)
 * Fitur pencarian lanjutan (berdasarkan judul atau pengarang)
@@ -88,16 +88,16 @@ java PerpustakaanApp
 
 ---
 
-## ❤️ Kontribusi
+##  Kontribusi
 
 Silakan fork, clone, dan bantu kembangkan aplikasi ini! Pull request sangat terbuka\~
 
 ---
 
-## 🌐 Lisensi
+##  Lisensi
 
 Proyek ini open-source dan dapat digunakan bebas untuk keperluan non-komersial.
 
 ---
 
-> Dibuat dengan semangat belajar dan secangkir kopi ☕ oleh Donie Makapeli ✨
+> Dibuat dengan semangat belajar dan secangkir kopi oleh Donie Makapeli 
