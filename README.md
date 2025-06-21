@@ -100,4 +100,4 @@ Proyek ini open-source dan dapat digunakan bebas untuk keperluan non-komersial.
 
 ---
 
-> Dibuat dengan semangat belajar dan secangkir kopi ☕ oleh Ranggis ✨
+> Dibuat dengan semangat belajar dan secangkir kopi ☕ oleh Donie Makapeli ✨
